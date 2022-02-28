@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The routing of the Ranters being a full relation of their uncivil carriages, and blasphemous words and actions at their mad meetings, their several kind of musick, dances, and ryotings, and their belief and opinions concerning heaven and hell. With their examinations taken before a justice of peace, and a letter or summons sent to their sisters or fellow creatures in the name of the Divel, requiring them to meet Belzebub, Lucifer, Pluto, and twenty more of the infernall spirits at the time and place appointed. Also, a true description how they may be known in al companies and the names of the chief ring-leaders of this new generation that excell all others in wickednesse.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92020</idno>
+            <idno type="STC">Wing R2055</idno>
+            <idno type="STC">Thomason E616_9</idno>
+            <idno type="STC">ESTC R203427</idno>
+            <idno type="EEBO-CITATION">99863385</idno>
+            <idno type="PROQUEST">99863385</idno>
+            <idno type="VID">115584</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92020)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115584)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 94:E616[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The routing of the Ranters being a full relation of their uncivil carriages, and blasphemous words and actions at their mad meetings, their several kind of musick, dances, and ryotings, and their belief and opinions concerning heaven and hell. With their examinations taken before a justice of peace, and a letter or summons sent to their sisters or fellow creatures in the name of the Divel, requiring them to meet Belzebub, Lucifer, Pluto, and twenty more of the infernall spirits at the time and place appointed. Also, a true description how they may be known in al companies and the names of the chief ring-leaders of this new generation that excell all others in wickednesse.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Published by authority, and printed by B.A.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a title-page woodcut.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 19 1650".</note>
+                  <note>Annotation on Thomason copy: "Noumb: 18 1650".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ranters --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115584:1" rendition="simple:additions"/>
+            <p>THE ROVTING OF THE RANTERS Being a full Relation of their uncivil carriages, and blaſphemous words and actions at their mad meetings, their ſeveral kind of muſick, dances, and ryotings, and their belief and opinions concerning heaven and hell. With their examinations taken before a Juſtice of Peace, and a Letter or Summons ſent to their ſiſters or fellow creatures in the name of the Divel, requiring them to meet <hi>Belzebub, Lucifer, Pluto,</hi> and twenty more of the infernall ſpirits at the time and place appointed. Alſo, a true deſcription how they may be known in al companies and the names of the chief Ring-leaders of this new generation that excell all others in wickedneſſe.</p>
+            <figure>
+               <figDesc>five men, one of them naked and holding a whip, meet around a desk with pen, ink, book and paper</figDesc>
+            </figure>
+            <p>Publiſhed by Authority and Printed by <hi>K. A.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:115584:2"/>
+            <pb n="1" facs="tcp:115584:2"/>
+            <head>The Ranters Ranting: OR A A true Relation of a ſort of People called Ranters, with ſome of their abominable and wicked car<g ref="char:EOLhyphen"/>riages, and behaviour at their private meetings.</head>
+            <p>
+               <seg rend="decorInit">J</seg> Shall in the firſt place give you, my friends, a brief Character of a ſort of people (whereof you deſire ſatisfaction) newly ſprung up among us, called Ranters, <hi>alius</hi> Coppanits, or Clax<g ref="char:EOLhyphen"/>tonians, tht moſt vile and abhominable Apoſtates, that we ever read or heard of, carrying about them the lively image of Satan in his Serpentine colours of ſeducing and drawing men and women to commitall manner of mad and deſperate wickedneſſe (as the Apoſtle ſaith) with greedineſſe. I cannot term theſe perſons to be of any Sect, for that I do not learn, either in profeſſion or practiſe, they do any thing that hath the leaſt ſtamp or tincture of that which may be rightly called religion. For to rip open, and make known to the world the abominable words and practiſes of theſe people, would fill up more paper then I have allotted hereun<g ref="char:EOLhyphen"/>to; and to repeat many things which I am confident might be ſaid without wronging the truth, would make your ears tingle to hear, and my ſelf bluſh to think or write; yet it is conceived uſefull and profitable to many, that ſome of their deeds of darkneſſe ſhould be brought forth into the light, to the end, that ſuch as are weak and apt to be drawn aſide by every wind of vanity, may be deterred from coming into ſuch company, and with ſuch a one not to eat; for if the Apoſtle forbids the Centiles (Chriſtians) not to eat with the hea<g ref="char:EOLhyphen"/>thens of that time, ſurely the ſame precept extends to the reſtraining men, that have any ſpark of goodneſſe, from accompanying themſelves with ſuch as are
+<pb n="2" facs="tcp:115584:3"/>far worſe than any heathen or infidels we read of then, or have heard of ſince; being ſuch as (quite contrary to the rule of St. <hi>Paul,</hi>) delight not onely in gluttony and drunkenneſſe, chambering and wantonneſſe, and the like, but de<g ref="char:EOLhyphen"/>ride the holy Scriptures, deny Chriſt, blaſpheming, and as it were ſpit in the face of God himſelf: for one of them being diſcourſing at the Spittle ſaid, that he knew not any difference betwixt God and the Divell; and being then asked what he thought of the Divell, he anſwered that it was an old woman ſtuffed with parſly: to be ſhort, I am credibly informed, that ſome of theſe deny the immortality of the ſoul, and ſo holding forth an opinion that there is neither heaven nor hell, it is no wonder that they ſhould fall into all kind of vices, that they commit iniquity by a law. The chief Ringleaders of this viperous genera<g ref="char:EOLhyphen"/>tion, are one <hi>Copp</hi> and <hi>Claxton,</hi> of whom I ſhall ſay more hereafter, <hi>Copp</hi> is in Newgate, the other is alſo a priſoner, this <hi>Copp</hi> being lately brought be<g ref="char:EOLhyphen"/>fore a Committee to be examined, feigned himſelf mad, uſed ſtrange kind of uncouth behaviour, throwing nutſhels and other things about the room, and talked to himſelf when queſtions were put to him, which ſome thought to be Gods juſt judgement upon him, and others were of opinion that (as <hi>David</hi> in another caſe) he meerly acted the part which at length will no way ſtand him in ſtead.</p>
+            <p>Having given you a general deſcription of them, I ſhal in the next place come to ſpeak of ſome of their particular meetings: the firſt that I have heard of, to be frequented by this brutiſh ſort of people, was about Shoemakers Alley, where after a while, notice was taken, and ſome diſcovery made, by ſuch as had been amongſt them, rather to obſerve their vanities, than to be imitaters of their vices, which cauſed them ſhortly after to remove to another place. This time of meeting began about four of the clock in the afternoon, and was continued by ſome until niae or ten of the clock the next day; which time was ſpent in drun<g ref="char:EOLhyphen"/>kenneſs, uncleanneſs, blaſphemous words, filthy ſongs, and mixt dances of men and women ſtark naked.</p>
+            <p>Not long after, they had another place of meeting about <hi>White-Chappel:</hi> where after a time they were diſcovered by the Officers of the place, who with a guard repaired to the houſe where they were: and to the end that none might make an eſcape, the buſineſs was carried with ſuch ſecrecie, that it was not known to others till they came to the door, where theſe monſters of mankind were aſſociated; which the Officers had no ſooner entred, but they found ſome of theſe laſcivious beaſts openly ſatisfying their luſts. Amongſt this company was that <hi>Claxton,</hi> (before mentioned) who with undanted boldneſs and au<g ref="char:EOLhyphen"/>dacious carriage ſpake to the Officers, that came with authoritie to apprehend them, to this effect.</p>
+            <p>
+               <hi>Gentlemen,</hi> I perceive you are come to ſeize on us, your fellow creatures, for what cauſe I know not; I pray uſe not any violence, or terrifie and affright thoſe of our fellow creatures here, that are of a weak and tender conſtitution:
+<pb n="3" facs="tcp:115584:3"/>if we have offended the Law, we ſhall readily and willingly ſubmit to be tried by it. And taking up his cloak, he ſaid, <hi>Gentlemen,</hi> I will not leave you, I am ready to go along with you. And ſorth he went with the firſt; and as the o<g ref="char:EOLhyphen"/>thers were comming forth, (about thirty in number) he framed an excuſe to return back again into the houſe, pretending that he had left ſomething of great uſe behind him, and ſo eſcaped away at a back door; but is re-taken, and at this day in priſon.</p>
+            <p>I cannot learn, that in any of their meetings, they have uſed exhortations, except ſuch as tend onely to the making of a deriſion and ſcoffe, at all that is commended in the holy and ſacred Scriptures to be good and holy; deſpiſing the word and ordinances, when they hear them ſpoken of: and their Ring-leader, <hi>Copp</hi> (when he was fitter to have gone to bed and ſlept, than to have ſpoken in a publick place) beſtowed an hours time in belching forth im<g ref="char:EOLhyphen"/>precations, curſes, and other ſuch like ſtuffe, as is not fit to be once named a<g ref="char:EOLhyphen"/>mongſt Chriſtirns: and when he perceived that he ſhould be called to anſwer for the wicked blaſphemies that he had uttered, at ſundry times, he took two of his ſhe-Diſciples, and went to the Citie of Coventrie, where it was ſoon diſper<g ref="char:EOLhyphen"/>ſed abroad, that he commonly lay in bed with two women at a time; whereof he being ſoberly admoniſhed by an Officer of the army, he replied, that it was his libertie, and he might uſe it; ſaying further, that unreaſonable creatures are not reſtrained of it. With many other ſpeeches to juſtifie himſelf in his ungodly practiſes, for which he was apprehended and brought up to London, and by the Magiſtrate committed to Newgate.</p>
+            <p>I ſhall, in the next place, mention ſomething concerning one or two more of their meetings, and ſo leave them. Not long ſince, a ſelect number of men and women met together at a Tavern, where they were accomodated with the choiſeſt wine, and many delicates; of which being plentifully filled, the women withdrew themſelves into another room, and diſrobed themſelves of the apparel in which they were, and clad themſelves all in white, (which they call, the Embleme of Innocence;) which no ſooner had they done, but there comes in one of the men, and (abuſing a text of Scripture) ſaid, Fellow crea<g ref="char:EOLhyphen"/>tures, <hi>what ſhall we do?</hi> and ſoon after, the Maſter and Drawers of the houſe perceived and heard ſuch diſorderly, and uncivil carriage amongſt them, that they were deſirous to rid the houſe of them; which ſome of the younger ſort having notice of, put them all into another kind of paſſion, and made bold to diſcover the diſſembling faces of ſome of the female creatures, who let drop ſome of their hats and black bags to pay the reckoning, and for haſte, dropt a paper, which ſeemeth to be the ſummons, or invitation of the gueſts to that meeting, <hi>viz.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>Dear ſiſter and fellow creature, whoſe ſweetneſſe we reverence, and whoſe perſon we adore, whoſe witty conceits we admire,
+<pb n="4" facs="tcp:115584:4"/>and whoſe ſubtilty we wonder at, we do by this our hand-writing, will and require you, our deareſt fellow creature, that you perſonal<g ref="char:EOLhyphen"/>ly appear at the place, where we last had ſome infernal conference, half an hour past four in the afternoon of this preſent day; for we have taken notice of the ſingular, great, and ſpeciall ſervices you have done for inlargement of libertie, ſince our last actings to<g ref="char:EOLhyphen"/>get her, which we doubt not, will much inlarge our power, and prehe<g ref="char:EOLhyphen"/>minence in drawing diſciples to us. Hereof you are commanded not to fail, for that <hi>Belzebub, Lucifer, Pluto</hi> and above twen<g ref="char:EOLhyphen"/>ty more of the prime officers will attend to give you then and there new documents: and we ſhall promiſe, in the word of a King infernal, that you ſhall raign as a Princeſſe with us.</p>
+                  <closer>
+                     <signed>
+                        <hi>Signed</hi> Diabulo.</signed>
+                     <dateline>
+                        <hi>Dated at our new infernall Pallace without</hi> Biſhops-gate, <date>
+                           <hi>10 of</hi> Octob. <hi>1650.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>There be copies abroad, of ſeveral other papers, which ſome of them have ſent abroad in this nature; but this may be ſufficient to declare, what a heighth of wickedneſs they are grown to, who deſpiſe the ways of God, and mock and ſcoffe at his great and glorious name; and as if that were not enough, they now come openly to ſide, and as it were perſonate the Divel himſelf; which makes me the leſs marvel at ſome unheard of words and behaviour that were at ano<g ref="char:EOLhyphen"/>ther particular meeting, the ſixth day of this preſent November, at the houſe of one <hi>Middleton,</hi> at the ſign of <hi>David and the Harp,</hi> in Moore-lane (whoſe wife is ſuſpected to be one of them.) To this place a company of them came on the day aforeſaid, about five of the clock in the afternoon; but ſome of the female ſex came not, (for at this time the before recited ſummons was not ſent forth:) thoſe that were there firſt, called for Bread, Beer, and Ale, <hi>&amp;c.</hi> which was in the houſe; and as others came in, whether they were men or women, they kiſt each other, with this expreſſion, <hi>welcome fellow creature.</hi> And when a competent number of them were gotten together, they began to ſing filthy bawdy ſongs to the tune of <hi>Davids</hi> Pſalms; after which, they drank a health to him, in whom they <hi>live, move, and have a being:</hi> this being over, one of them lets fall his breeches, and turning his ſhirt aſide, another of the company runs and kiſſes, ſaying, they muſt all do the like, for it was their fellow crea<g ref="char:EOLhyphen"/>ture.</p>
+            <p>This being done, one of the men took a candle, and went up and down the room, as if he had been ſeeking of a needle; and after a while, one asked him
+<pb n="5" facs="tcp:115584:4"/>what he ſought after? to whom he anſwered, <hi>That he looks for his ſins, but they were not there, he could find none;</hi> then they returned again to their tu<g ref="char:EOLhyphen"/>ning of laſcivious ſongs or hymns, in the middeſt of which, the Conſtable and other Officers came in, and ſeized on them all, (except Mrs. <hi>Middleton,</hi> and one or two more, who made an eſcape at the back door,) and carried them before a Juſtice of Peace, who ſent ſix or ſeven of them to <hi>Bridewel;</hi> but Mrs. <hi>Middle<g ref="char:EOLhyphen"/>ton,</hi> and another or two that eſcaped, are ſo afraid of receiving puniſhment an<g ref="char:EOLhyphen"/>ſwerable to thesr demerits, that they dare not (as yet) remain at their habita<g ref="char:EOLhyphen"/>tions.</p>
+            <p>When thoſe that were taken came before the Juſtice to be examined, they would confeſs nothing of their ways, ſaying, that they would not accuſe them<g ref="char:EOLhyphen"/>ſelves. Whereupon, one that was by, asked, what they meant by the fearful execrations of <hi>Ram me, Dam me,</hi> &amp;c. one anſwered, that by the word, <hi>Raml</hi> they meant God.</p>
+            <p>Many other queſtions were alſo asked them, to which they gave none, or a very frivolous, which amounted to little, but to bring them to the place of their firſt puniſhment. I ſhall therefore haſten to decipher their words and be<g ref="char:EOLhyphen"/>haviour in publick, to the end, that if any man chance to fall into their company, they may be known and avoided.</p>
+            <p>And for that this ſort of people are diſperſed abroad, in the City Country and army, it is neceſſary that there ſhould be ſomewhat ſaid to deſcribe them to the end they may be avoided, which by your obſervation of their words, and actions you may eaſily do, for although they carry the image and ſhape of men and women, yet they have the manners onely of a beaſt.</p>
+            <div type="description">
+               <head>A Deſcription of the Ranters.</head>
+               <p>IF it be a woman, ſhe ſpeaks highly in commendation of thoſe husbands that give liberty to their wives, and will freely; give conſent that ſhe ſhould aſſo<g ref="char:EOLhyphen"/>ciate her ſelf with any other of her fellow creatures, which ſhe ſhall make choice of; ſhe commends the Organ, Viol, Symbal and Tonges in Charter<g ref="char:EOLhyphen"/>houſe-Lane to be heavenly muſick ſhe toſſeth of her glaſſes freely, and conclu<g ref="char:EOLhyphen"/>deth there is no heaven but the pleaſures ſhe injoyeth on earth. ſhe is very familiar at the firſt ſight, and danceth the Canaries at the ſound of a horn<g ref="char:EOLhyphen"/>pipe.</p>
+               <p>The men for the moſt part will thwart you in your diſcourſe, eſpecially if you talk of religion, they can diſcourſe of the Scriptures, and turn them to a wrong ſence, if you be talking of death, they ſay, <hi>as a man dieth, ſo dieth a beast;</hi> they believe all things proceed from nature, and that there is no hell but aches and pains incident to man, and want of mony, which hindereth them of taking their fill of pleaſure: and though they hold it convenient to have one woman to dwell conſtantly with one man, to do his neceſſary buſineſſe, yet
+<pb n="6" facs="tcp:115584:5"/>are they of opinion that they may have carnall knowledge of any, and as ma<g ref="char:EOLhyphen"/>ny other women as their beaſtly deſire can make uſe of. And in this kind of coupling together (or making a conjunction copulative) the woman doth commonly make choice of the man ſhe will dwell with; and as they ſlight and contemn all ordinances, ſo do they that of marriage, yet have they a kind of ceremony to be uſed for it, concerning which, I ſhall give you one familiar and merry inſtance, and ſo leave them.</p>
+               <p>A ſober man of good faſhion, chanced to go to a place, where a Com<g ref="char:EOLhyphen"/>pany of them were gathered together at a Conference, onely with a purpoſe to obſerve what was ſaid and done; and at the time of their breaking up, or di<g ref="char:EOLhyphen"/>ſolving that meeting, there comes to this man a young woman, and tells him, that ſhe was ſingle, or free to diſpoſe of her ſelf as ſhe pleaſed, and that ſhe had a liking unto him her fellow Creature, whom ſhe could willingly love and ſerve, in the neereſt relation that a womhn could be to a man: which at the firſt much ſtartled the party, and after the returne of a Complement, he thought it worth his time, to ſee a little further concerning the temper, and diſpoſition of this bold Creature, ſo deſired her to take part of a pint of Sack, over which they might with the more conveniency inlarge their diſcourſe; which ſhe readily accepted, and to the Taverne they went, and no ſooner was the wine brought up, but ſhe calls for a Roll of bread, and holding it forth to the party that was with her ſaid: <hi>fellow Creature, break this</hi> with me, which he did; when you have eaten that part in your hand, and I likewiſe <hi>this, we are in condition or acceptation of man and wife:</hi> then after ſome fur<g ref="char:EOLhyphen"/>ther diſcourſe (be knowing well that he had a wife at home of a gallant ſpi<g ref="char:EOLhyphen"/>rit, and a lover of virtue) directed her home to his houſe, where he told her ſhe ſhould find a maid would give her entertainment, while he ſpake a few words with a Gent. with whom he had earneſt buſineſſe; whereupon ſhe went to the houſe, and asked for the maſter of the houſe, and being told he was nor within, ſhe ſaid that ſhe would ſtay his comming, and having ſome diſcourſe with the maid ſervant, and perceiving the houſe well furniſhed, ſhe could no longer hold, but tels the maid ſhe was her miſtreſſe, and all there was hers; which ſtory the maid haſted to tell her miſtreſſe, with whom ſhe had lived many years; who immediately came with a good Broom-ſtaff, and did ſo belabour the Gent. that ſhe went away in a worſe caſe then if ſhe had beat<g ref="char:EOLhyphen"/>en hemp a moneth in Bridewel, a juſt reward for her bold impudencie, <hi>and I pray God that ſuch as heare this relation, and the wickedneſs of their ways, may be preſerved from following them in the ſame exceſs of ryot, that every one may keep a watch over his own ways, for ſome of theſe of which I have ſpoken, have been thought conſciencious perſons, and had attained to a great meaſure of knowledge in the ways of God, and if theſe fall away, let him that ſtandeth take heed leaſt he fall.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+               <pb n="389" facs="tcp:115584:5" rendition="simple:additions"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
